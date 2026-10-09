@@ -1,0 +1,8 @@
+{
+  "appearance.customers_millenaire_appearance.local_culture": "Millénaire - Local Culture",
+  "config.customers_millenaire_appearance.max_nearby_village_distance": "Maximum Nearby Village Distance",
+  "config.customers_millenaire_appearance.include_visitors": "Include Visitor Villagers",
+  "config.customers_millenaire_appearance.include_leaders": "Include Leaders",
+  "config.customers_millenaire_appearance.include_hostile_and_combat": "Include Hostile and Combat Villagers",
+  "config.customers_millenaire_appearance.include_children": "Include Children"
+}
