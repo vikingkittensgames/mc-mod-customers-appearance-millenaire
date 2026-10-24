@@ -11,13 +11,6 @@ clothing, and scale.
 
 [Learn more about Millénaire](https://www.curseforge.com/minecraft/mc-mods/millenaire).
 
-## Requirements
-
-- Minecraft 1.21.1 with NeoForge 21.1.230 or newer in the 21.1 line
-- Customers 2.1.0 or newer
-- Architectury API 13.0.8 or newer in the 13.0 line
-- Millénaire 9.0.2
-
 ## Use the appearance
 
 Install Customers, Architectury API, Millénaire, and this add-on. Place a
