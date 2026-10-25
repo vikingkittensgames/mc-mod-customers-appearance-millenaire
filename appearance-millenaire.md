@@ -14,8 +14,8 @@ does not publish a supported integration API. Its linked public repository
 contains culture content from the older implementation rather than the source
 for the current NeoForge mod.
 
-The integration must therefore be version-pinned and treated as potentially
-breaking between any two Millénaire releases.
+The integration accepts Millénaire 9.0.2 and later. Each newer release must be
+verified because the upstream API does not make compatibility guarantees.
 
 ## Millénaire appearance groups
 
@@ -213,8 +213,8 @@ Before release, ask the Millénaire maintainers whether the village, culture,
 villager-definition, and rendering entry points used by the add-on can be
 treated as supported API.
 
-Pin each add-on release to a tested Millénaire version range. Do not declare an
-open-ended compatible range until upstream provides API stability guarantees.
+Keep 9.0.2 as the minimum supported Millénaire version and verify each newer
+release. Restrict the open-ended range only after a confirmed incompatibility.
 
 ## Test plan
 
